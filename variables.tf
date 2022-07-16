@@ -6,6 +6,7 @@ variable "extra_tags" {
 
 variable "environment" {
   description = "The environment where the resource is provisioned"
+  default     = "Dev"
 }
 
 variable "name" {
