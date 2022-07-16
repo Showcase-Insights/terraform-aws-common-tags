@@ -1,7 +1,7 @@
 locals {
   tags = {
-    "Terraform"  = true
-    "Name"       = var.name
+    "Terraform"   = true
+    "Name"        = var.name
     "Environment" = var.environment
   }
 
