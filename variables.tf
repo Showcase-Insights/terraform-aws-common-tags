@@ -11,4 +11,5 @@ variable "environment" {
 
 variable "name" {
   description = "Name of the resouce"
+  default     = null
 }
