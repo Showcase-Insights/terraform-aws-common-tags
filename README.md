@@ -30,7 +30,7 @@ No resources.
 |------|-------------|------|---------|:--------:|
 | <a name="input_environment"></a> [environment](#input\_environment) | The environment where the resource is provisioned | `string` | `"Dev"` | no |
 | <a name="input_extra_tags"></a> [extra\_tags](#input\_extra\_tags) | Tags | `map(string)` | `{}` | no |
-| <a name="input_name"></a> [name](#input\_name) | Name of the resouce | `any` | n/a | yes |
+| <a name="input_name"></a> [name](#input\_name) | Name of the resouce | `any` | `null` | no |
 
 ## Outputs
 
