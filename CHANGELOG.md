@@ -8,6 +8,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
+<a name="v0.1.2"></a>
+## [v0.1.2] - 2022-07-31
+
+
+
 <a name="v0.1.1"></a>
 ## [v0.1.1] - 2022-07-16
 
@@ -18,5 +23,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-[Unreleased]: https://github.com/nclouds/terraform-aws-repo/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/nclouds/terraform-aws-repo/compare/v0.1.2...HEAD
+[v0.1.2]: https://github.com/nclouds/terraform-aws-repo/compare/v0.1.1...v0.1.2
 [v0.1.1]: https://github.com/nclouds/terraform-aws-repo/compare/v0.1.0...v0.1.1
